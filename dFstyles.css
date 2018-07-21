@@ -1,0 +1,179 @@
+body {
+	background-image:url(images/background.png);
+}
+
+.navbar li{
+    margin-top: 12px;
+		list-style: none;
+		display: inline;
+		margin-left: -25px;
+		margin-right: 10px;
+}
+
+.navbar a{
+	color: #D64541;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar a:hover{
+    color: #F1A9A0;
+}
+
+.listtext {
+    color: #D64541;
+	  font-family: 'Raleway', sans-serif;
+		font-weight: bold;
+}
+
+.list1 li:nth-child(2){
+    float: right;
+    margin-right:20px;
+}
+
+
+.maintext {
+    margin-top: -20px;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.maintext p{
+    color: #D64541;
+    font-size: 7em;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#subtext{
+    color: #D64541;
+    margin-top: -95px;
+    font-size: 1.9em;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.buttons li{
+    list-style: none;
+		display: inline;
+    margin-left: -15px;
+    padding-right: 30px;
+}
+
+button{
+	text-decoration: none;
+  color: #D64541;
+  background: rgba(0,0,0,0);
+  border: solid 1px #D64541;
+  font-size: 2em;
+  font-family: 'Work Sans', sans-serif;
+  padding: 10px 30px;
+}
+
+button:hover{
+    background: #D64541;
+    color:white;
+}
+
+footer{
+    margin-top: 130px;
+    width: 95%;
+		font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+		font-size: 1em;
+    text-align: center;
+}
+
+footer li{
+	display: inline;
+}
+
+footer a{
+	text-decoration: none;
+	padding: 12px;
+	color: #D64541;
+}
+
+footer a:hover{
+  color: #E08283;
+}
+
+.page2{
+  background-image: none;
+}
+
+.logo{
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.login{
+  margin-top: 40px;
+  text-align: center;
+  vertical-align: middle;
+  height: 100%;
+  border: 1px solid #D64541;
+  padding: 35px;
+}
+
+.login h1{
+  color: #D64541;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.login p{
+  color: #D64541;
+  font-size: 1em;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+}
+
+
+.submit{
+  font-family: Raleway, sans-serif;
+  background-color: #D64541;
+  color:white;
+}
+
+.questions{
+	  margin-top: 40px;
+	  text-align: center;
+	  vertical-align: middle;
+	  height: 100%;
+	  border: 1px solid #D64541;
+	  padding: 20px 35px;
+}
+
+.questions h1,h2{
+  color: #D64541;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.questions p{
+  color: #D64541;
+  font-size: 1em;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+}
+
+.footer{
+  margin-top: 185px;
+  width: 97%;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+}
+
+.footer li{
+  display: inline;
+}
+
+.footer a{
+  text-decoration: none;
+  padding: 12px;
+  color: #D64541;
+}
+
+.footer a:hover{
+  color: #E08283;
+}
